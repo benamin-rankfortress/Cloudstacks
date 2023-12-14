@@ -18,68 +18,68 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-a{
-text-decoration: none!important;
-}
-footer{
-background:#313131;
+footer a{
 color:#ffffff;
+text-decoration: underline;
 }
-.navbar a{
-font-size: 18.4px!important;
-font-weight: bold;
-}
-html{
-scroll-behavior: smooth;
-}
-ul{
-list-style: circle;
-}
-.b56bc8762a5d874777f90f67585c381db:hover{
-box-shadow: 0 50px 49.8px -25px rgb(0 0 0 / 30%);
+.eefcbe3081cda5c0916a606b29a08d293:hover{
+box-shadow: 0 50.4px 50.5px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
 }
-.a251a663dfe2908d46c4d1c04ec3a638f p,.a251a663dfe2908d46c4d1c04ec3a638f a,.a251a663dfe2908d46c4d1c04ec3a638f span,.a251a663dfe2908d46c4d1c04ec3a638f label{
-font-size:16px!important;
-}
-footer *{
-font-size:16px !important;
-}
-.nav-item{
-padding-left:8.4px;
-padding-right:8.5px;
-padding-top:5.2px;
-padding-bottom:4.6px;
+.btn-md{
+padding: 14.7px 30.4px;
+border-radius: 0;
 }
 .nav-link{
 color: #000000!important;
 
 }
+.v05d696d8efff3c950df57f5c8cbedd72 p,.v05d696d8efff3c950df57f5c8cbedd72 a,.v05d696d8efff3c950df57f5c8cbedd72 span,.v05d696d8efff3c950df57f5c8cbedd72 label{
+font-size:16px!important;
+}
+.v05d696d8efff3c950df57f5c8cbedd72 a,.d35b6423aecc8d46c0e87ee20b4357307 a{
+color:#040404!important;
+text-decoration: underline !important;
+}
+.d35b6423aecc8d46c0e87ee20b4357307 p,.d35b6423aecc8d46c0e87ee20b4357307 span,.d35b6423aecc8d46c0e87ee20b4357307 label{
+font-size:16px!important;
+}
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.a251a663dfe2908d46c4d1c04ec3a638f a,.d0c706d405b5327fa2057a103d1deecb7 a{
-color:#0c0c0c!important;
-text-decoration: underline !important;
+footer *{
+font-size:16px !important;
 }
-.d0c706d405b5327fa2057a103d1deecb7 a{
+html{
+scroll-behavior: smooth;
+}
+.d35b6423aecc8d46c0e87ee20b4357307 a{
 font-size:16px;
 }
-.w234f33f700467942b58a128417e7998d{
+.xb8086d0364fcb650a447a19fb13d79f4{
 background-color:#4ba4d4!important;
 border-color:#4ba4d4!important;
 color:#000000!important;
 }
-footer a{
+.navbar a{
+font-size: 18.1px!important;
+font-weight: bold;
+}
+ul{
+list-style: circle;
+}
+footer{
+background:#313131;
 color:#ffffff;
-text-decoration: underline;
 }
-.d0c706d405b5327fa2057a103d1deecb7 p,.d0c706d405b5327fa2057a103d1deecb7 span,.d0c706d405b5327fa2057a103d1deecb7 label{
-font-size:16px!important;
+.nav-item{
+padding-left:8.2px;
+padding-right:8.3px;
+padding-top:5.2px;
+padding-bottom:5.5px;
 }
-.btn-md{
-padding: 14.8px 29.9px;
-border-radius: 0;
+a{
+text-decoration: none!important;
 }
 </style>
 </head>
@@ -87,27 +87,27 @@ border-radius: 0;
 <nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/logo-23091.png" src="img/logo-23091.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
 <ul class="navbar-nav align-items-center d-flex ml-auto"><li class="nav-item">
-<a class="zb21c54a89d3b08a4368ec774e748ecbb nav-link" href="index.html" >INDIVIDUAL THERAPY</a>
+<a class="c9811e8a37d99da2a95f3d5bdf5f423d8 nav-link" href="index.html" >INDIVIDUAL THERAPY</a>
 </li>
 <li class="nav-item">
-<a class="nav-link zb21c54a89d3b08a4368ec774e748ecbb" href="teen-and-adolescent-therapy.html" >TEEN AND ADOLESCENT THERAPY</a>
+<a class="nav-link c9811e8a37d99da2a95f3d5bdf5f423d8" href="teen-and-adolescent-therapy.html" >TEEN AND ADOLESCENT THERAPY</a>
 </li>
 <li class="nav-item">
-<a class="zb21c54a89d3b08a4368ec774e748ecbb nav-link" href="couples-therapy.html" >COUPLES THERAPY</a>
+<a class="c9811e8a37d99da2a95f3d5bdf5f423d8 nav-link" href="couples-therapy.html" >COUPLES THERAPY</a>
 </li>
 <li class="nav-item">
-<a class="nav-link zb21c54a89d3b08a4368ec774e748ecbb" href="family-therapy.html" >FAMILY THERAPY</a>
+<a class="c9811e8a37d99da2a95f3d5bdf5f423d8 nav-link" href="family-therapy.html" >FAMILY THERAPY</a>
 </li>
 <li class="nav-item dropdown">
-<a class="dropdown-toggle nav-link zb21c54a89d3b08a4368ec774e748ecbb" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="c9811e8a37d99da2a95f3d5bdf5f423d8 nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="cognitive-behavioral-therapy-cbt.html"  >COGNITIVE BEHAVIORAL THERAPY (CBT)</a><a class="dropdown-item" href="eye-movement-desensitization-and-reprocessing-emdr.html"  >EYE MOVEMENT DESENSITIZATION AND REPROCESSING (EMDR)</a><a class="dropdown-item" href="dialectical-behavior-therapy-dbt.html"  >DIALECTICAL BEHAVIOR THERAPY (DBT)</a><a class="dropdown-item" href="compassion-focused-therapy-cft.html"  >COMPASSION-FOCUSED THERAPY (CFT)</a><a class="dropdown-item" href="prolonged-exposure-pe-therapy.html"  >PROLONGED EXPOSURE (PE) THERAPY</a><a class="dropdown-item" href="trauma-focused-cognitive-behavioral-therapy-tf-cbt.html"  >TRAUMA-FOCUSED COGNITIVE BEHAVIORAL THERAPY (TF-CBT)</a><a class="dropdown-item" href="cbasp-cognitive-behavioral-analysis-system-of-psychotherapy.html"  >CBASP (COGNITIVE BEHAVIORAL ANALYSIS SYSTEM OF PSYCHOTHERAPY)</a><a class="dropdown-item" href="anxiety.html"  >ANXIETY</a><a class="dropdown-item" href="depression.html"  >DEPRESSION</a><a class="dropdown-item" href="post-traumatic-stress-disorder-ptsd.html"  >POST-TRAUMATIC STRESS DISORDER (PTSD)</a><a class="dropdown-item" href="personality-disorders.html"  >PERSONALITY DISORDERS</a><a class="dropdown-item" href="military-veteran-and-first-responder-populations.html"  >MILITARY, VETERAN, AND FIRST RESPONDER POPULATIONS</a><a class="dropdown-item" href="anger-management.html"  >ANGER MANAGEMENT</a><a class="dropdown-item" href="mood-disorders.html"  >MOOD DISORDERS</a><a class="dropdown-item" href="attention-deficit-hyperactive-disorder-adhd.html"  >ATTENTION DEFICIT HYPERACTIVE DISORDER (ADHD)</a><a class="dropdown-item" href="stress.html"  >STRESS</a><a class="dropdown-item" href="obsessive-compulsive-disorder-ocd.html"  >OBSESSIVE-COMPULSIVE DISORDER (OCD)</a><a class="dropdown-item" href="low-self-esteem-or-self-worth.html"  >LOW SELF-ESTEEM OR SELF WORTH</a><a class="dropdown-item" href="behavioral-issues.html"  >BEHAVIORAL ISSUES</a><a class="dropdown-item" href="divorce-and-relationship-issues.html"  >DIVORCE AND RELATIONSHIP ISSUES</a><a class="dropdown-item" href="codependency.html"  >CODEPENDENCY</a><a class="dropdown-item" href="grief-and-loss.html"  >GRIEF AND LOSS</a></div>
 </li>
-<li class="nav-item"><a class="nav-link zb21c54a89d3b08a4368ec774e748ecbb" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="c9811e8a37d99da2a95f3d5bdf5f423d8 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn-md btn w234f33f700467942b58a128417e7998d" href="https://stickneycounseling.com/contact/" >Contact Us</a>
+<a class="btn-md btn xb8086d0364fcb650a447a19fb13d79f4" href="https://stickneycounseling.com/contact/" >Contact Us</a>
 </li>
 </ul>
 </div>
@@ -166,7 +166,7 @@ border-radius: 0;
 <p><strong>Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
+<div class="py-4 pt-5 container" >
 <div class="row"><div class="col-lg-3">
 <p>Stickney Counseling</p>
 <p>Phone : +15618167542</p>
@@ -174,16 +174,16 @@ border-radius: 0;
 <p>State : United States</p>
 <p>Zip : 33408</p>
 <p>Address : 1201 US-1 Suite 230, North Palm Beach, FL</p>
-<p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="https://local.google.com/place?id=13646265043998114780&use=srp" >Google Business Website</a></p>
-<p>Company Website : <a class="zb21c54a89d3b08a4368ec774e748ecbb" href="https://stickneycounseling.com/" >https://stickneycounseling.com/</a></p>
+<p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="https://local.google.com/place?id=13646265043998114780&use=srp" >Google Business Website</a></p>
+<p>Company Website : <a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="https://stickneycounseling.com/" >https://stickneycounseling.com/</a></p>
 </div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
  
-<p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="https://stickneycounseling.com/the-impact-of-cognitive-behavioral-therapy-on-mental-health/"  target="_blank">The Impact of Cognitive Behavioral Therapy on Mental Health</a></p><p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="https://stickneycounseling.com/family-therapy-benefits/"  target="_blank">Exploring the Benefits of Family Therapy: A Comprehensive Overview</a></p><p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="https://stickneycounseling.com/couples-therapy-for-communication-issues/"  target="_blank">Addressing Communication Issues through Couples Therapy: A Comprehensive Approach</a></p><p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="zb21c54a89d3b08a4368ec774e748ecbb" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="https://stickneycounseling.com/the-impact-of-cognitive-behavioral-therapy-on-mental-health/"  target="_blank">The Impact of Cognitive Behavioral Therapy on Mental Health</a></p><p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="https://stickneycounseling.com/family-therapy-benefits/"  target="_blank">Exploring the Benefits of Family Therapy: A Comprehensive Overview</a></p><p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="https://stickneycounseling.com/couples-therapy-for-communication-issues/"  target="_blank">Addressing Communication Issues through Couples Therapy: A Comprehensive Approach</a></p><p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="c9811e8a37d99da2a95f3d5bdf5f423d8" href="about-us.html" rel="nofollow">About Us</a></p>
 <p><p>Area Served:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State of Florida:&nbsp;<a href="https://stickneycounseling.com/north-palm-beach-fl/">Including&nbsp;</a><a href="https://stickneycounseling.com/north-palm-beach-fl/">North Palm Beach, FL, Palm Beach Gardens</a>, Jupiter, West Palm Beach, Stuart, Wellington, and virtually throughout the state.</p></p>
 <div class="col-lg-12">
-<img class="img-fluid b56bc8762a5d874777f90f67585c381db" src="img/logo-23091.png" alt="">
+<img class="img-fluid eefcbe3081cda5c0916a606b29a08d293" src="img/logo-23091.png" alt="">
 </div>
 </p>
 </div></div>
