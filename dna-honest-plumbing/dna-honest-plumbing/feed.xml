@@ -18,64 +18,64 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.b917d51b13a17876086bd80dd758546ad a{
-font-size:16px;
+.nav-item{
+padding-left:8.1px;
+padding-right:8.5px;
+padding-top:4.5px;
+padding-bottom:5.2px;
 }
 .btn-md{
-padding: 15.5px 30.3px;
+padding: 14.9px 30.1px;
 border-radius: 0;
 }
-*{
-font-family: 'Kumbh Sans', sans-serif;
+footer{
+background:#7f8f8d;
+color:#ffffff;
+}
+.f6ffb31b8e9bc72423207b44d7db8630c p,.f6ffb31b8e9bc72423207b44d7db8630c a,.f6ffb31b8e9bc72423207b44d7db8630c span,.f6ffb31b8e9bc72423207b44d7db8630c label{
+font-size:16px!important;
+}
+ul{
+list-style: circle;
+}
+a{
+text-decoration: none!important;
+}
+.c68c606969ec03b608b42faf90f6d806d:hover{
+box-shadow: 0 50.5px 50px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.navbar a{
+font-size: 18px!important;
+font-weight: bold;
+}
+.abe283af42b4c64c774f8958a401366e2{
+background-color:#c89f8c!important;
+border-color:#c89f8c!important;
+color:#ffffff!important;
+}
+footer *{
+font-size:16px !important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.ac50534f126e7b200b4bfaf9db7324bfb:hover{
-box-shadow: 0 49.9px 50.3px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.b917d51b13a17876086bd80dd758546ad p,.b917d51b13a17876086bd80dd758546ad span,.b917d51b13a17876086bd80dd758546ad label{
-font-size:16px!important;
-}
-.x4ad21dcf82c0960dc615defba6ec8893 a,.b917d51b13a17876086bd80dd758546ad a{
-color:#0a0a0a!important;
-text-decoration: underline !important;
-}
-.x4ad21dcf82c0960dc615defba6ec8893 p,.x4ad21dcf82c0960dc615defba6ec8893 a,.x4ad21dcf82c0960dc615defba6ec8893 span,.x4ad21dcf82c0960dc615defba6ec8893 label{
-font-size:16px!important;
-}
-.nav-item{
-padding-left:8.3px;
-padding-right:7.8px;
-padding-top:4.8px;
-padding-bottom:4.9px;
-}
-footer *{
-font-size:16px !important;
-}
-ul{
-list-style: circle;
-}
 html{
 scroll-behavior: smooth;
 }
-footer{
-background:#81918f;
-color:#ffffff;
+.y1c25b680672dc1cd6eb0529dbef12f05 p,.y1c25b680672dc1cd6eb0529dbef12f05 span,.y1c25b680672dc1cd6eb0529dbef12f05 label{
+font-size:16px!important;
 }
-.f7ac99ac7ba9b449682e7df8836b7a656{
-background-color:#c89f8c!important;
-border-color:#c89f8c!important;
-color:#ffffff!important;
+.f6ffb31b8e9bc72423207b44d7db8630c a,.y1c25b680672dc1cd6eb0529dbef12f05 a{
+color:#111111!important;
+text-decoration: underline !important;
 }
-.navbar a{
-font-size: 17.6px!important;
-font-weight: bold;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
-a{
-text-decoration: none!important;
+.y1c25b680672dc1cd6eb0529dbef12f05 a{
+font-size:16px;
 }
 .nav-link{
 color: #000000!important;
@@ -87,27 +87,27 @@ color: #000000!important;
 <nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/dna-honest-plumbing-300x284.png" src="img/dna-honest-plumbing-300x284.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav d-flex"><li class="nav-item">
-<a class="wb2dd3d700bada6af16b32b73c22b6e81 nav-link" href="index.html" >Interior Plumbing</a>
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="d-flex navbar-nav ml-auto align-items-center"><li class="nav-item">
+<a class="zcba1be2ef99e789fa383d252bc1b0fdb nav-link" href="index.html" >Interior Plumbing</a>
 </li>
 <li class="nav-item">
-<a class="wb2dd3d700bada6af16b32b73c22b6e81 nav-link" href="exterior-plumbing.html" >Exterior Plumbing</a>
+<a class="zcba1be2ef99e789fa383d252bc1b0fdb nav-link" href="exterior-plumbing.html" >Exterior Plumbing</a>
 </li>
 <li class="nav-item">
-<a class="nav-link wb2dd3d700bada6af16b32b73c22b6e81" href="plumbing-fixtures-repair.html" >Plumbing Fixtures Repair</a>
+<a class="nav-link zcba1be2ef99e789fa383d252bc1b0fdb" href="plumbing-fixtures-repair.html" >Plumbing Fixtures Repair</a>
 </li>
 <li class="nav-item">
-<a class="wb2dd3d700bada6af16b32b73c22b6e81 nav-link" href="plumbing-fixtures-installation.html" >Plumbing Fixtures Installation</a>
+<a class="zcba1be2ef99e789fa383d252bc1b0fdb nav-link" href="plumbing-fixtures-installation.html" >Plumbing Fixtures Installation</a>
 </li>
-<li class="nav-item dropdown">
-<a class="nav-link wb2dd3d700bada6af16b32b73c22b6e81 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<li class="dropdown nav-item">
+<a class="zcba1be2ef99e789fa383d252bc1b0fdb dropdown-toggle nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="pipe-repair.html"  >Pipe Repair</a><a class="dropdown-item" href="pipe-replacement.html"  >Pipe Replacement</a><a class="dropdown-item" href="hydro-jetting.html"  >Hydro Jetting</a><a class="dropdown-item" href="drain-cleaning.html"  >Drain Cleaning</a><a class="dropdown-item" href="sump-pump-installation.html"  >Sump Pump Installation</a><a class="dropdown-item" href="camera-lines-and-sewer.html"  >Camera Lines and Sewer</a><a class="dropdown-item" href="cabling-sewer-lines.html"  >Cabling Sewer Lines</a><a class="dropdown-item" href="water-heater-repair.html"  >Water Heater Repair</a><a class="dropdown-item" href="water-heater-installation.html"  >Water Heater Installation</a><a class="dropdown-item" href="247-emergency-plumbing-services.html"  >24/7 Emergency Plumbing Services</a></div>
 </li>
-<li class="nav-item"><a class="wb2dd3d700bada6af16b32b73c22b6e81 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="nav-link zcba1be2ef99e789fa383d252bc1b0fdb" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn-md f7ac99ac7ba9b449682e7df8836b7a656 btn" href="https://www.dnahonestplumbing.com/contact-us/" >Contact Us</a>
+<a class="btn-md abe283af42b4c64c774f8958a401366e2 btn" href="https://www.dnahonestplumbing.com/contact-us/" >Contact Us</a>
 </li>
 </ul>
 </div>
@@ -213,31 +213,31 @@ color: #000000!important;
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us</p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
+<div class="pt-5 py-4 container" >
 <div class="row"><div class="col-lg-3">
 <p>DNA Honest Plumbing</p>
 <p>Phone : 586-257-1272</p>
 <p>Email : dnahonestplumbing@outlook.com</p>
 <p>Zip : 48313</p>
-<p>Address : Sterling Heights, MI</p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://local.google.com/place?id=3118121703836758485&use=srp" >Google Business Website</a></p>
-<p>Company Website : <a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/" >https://www.dnahonestplumbing.com/</a></p>
+<p>Address : 39616 Balboa Dr, Sterling Heights, MI</p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://local.google.com/place?id=3118121703836758485&use=srp" >Google Business Website</a></p>
+<p>Company Website : <a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/" >https://www.dnahonestplumbing.com/</a></p>
 </div><div class="col-lg-3">
 <p>Our Services</p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/interior-plumbing/"  target="_blank">Interior Plumbing</a></p><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/exterior-plumbing/"  target="_blank">Exterior Plumbing</a></p><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/plumbing-fixtures-repair/"  target="_blank">Plumbing Fixtures Repair</a></p><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/plumbing-fixtures-installation/"  target="_blank">Plumbing Fixtures Installation</a></p><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/pipe-repair/"  target="_blank">Pipe Repair</a></p><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/pipe-replacement/"  target="_blank">Pipe Replacement</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/hydro-jetting/"  target="_blank">Hydro Jetting</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/drain-cleaning/"  target="_blank">Drain Cleaning</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/sump-pump-installation/"  target="_blank">Sump Pump Installation</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/camera-lines-and-sewer/"  target="_blank">Camera Lines and Sewer</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/camera-lines-and-sewer/"  target="_blank">Cabling Sewer Lines</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/water-heater-repair/"  target="_blank">Water Heater Repair</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/water-heater-installation/"  target="_blank">Water Heater Installation</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="https://www.dnahonestplumbing.com/24-7-emergency-plumbing-services/"  target="_blank">24/7 Emergency Plumbing Services</a></p>
-</div><div class="col-lg-3"><p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="wb2dd3d700bada6af16b32b73c22b6e81" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/interior-plumbing/"  target="_blank">Interior Plumbing</a></p><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/exterior-plumbing/"  target="_blank">Exterior Plumbing</a></p><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/plumbing-fixtures-repair/"  target="_blank">Plumbing Fixtures Repair</a></p><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/plumbing-fixtures-installation/"  target="_blank">Plumbing Fixtures Installation</a></p><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/pipe-repair/"  target="_blank">Pipe Repair</a></p><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/pipe-replacement/"  target="_blank">Pipe Replacement</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/hydro-jetting/"  target="_blank">Hydro Jetting</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/drain-cleaning/"  target="_blank">Drain Cleaning</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/sump-pump-installation/"  target="_blank">Sump Pump Installation</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/camera-lines-and-sewer/"  target="_blank">Camera Lines and Sewer</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/camera-lines-and-sewer/"  target="_blank">Cabling Sewer Lines</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/water-heater-repair/"  target="_blank">Water Heater Repair</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/water-heater-installation/"  target="_blank">Water Heater Installation</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="https://www.dnahonestplumbing.com/24-7-emergency-plumbing-services/"  target="_blank">24/7 Emergency Plumbing Services</a></p>
+</div><div class="col-lg-3"><p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="zcba1be2ef99e789fa383d252bc1b0fdb" href="about-us.html" rel="nofollow">About Us</a></p>
 <div class="col-lg-12">
-<img class="img-fluid ac50534f126e7b200b4bfaf9db7324bfb" src="img/dna-honest-plumbing-qdhoi2zuf79mxe5yoyr42ji7gdqju0fa3pg7f6e5ew.png" alt="">
+<img class="img-fluid c68c606969ec03b608b42faf90f6d806d" src="img/dna-honest-plumbing-qdhoi2zuf79mxe5yoyr42ji7gdqju0fa3pg7f6e5ew.png" alt="">
 </div>
 </p>
 </div></div>
