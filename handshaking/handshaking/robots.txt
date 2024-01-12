@@ -1,1 +1,1 @@
-Sitemap: http://handshaking.com/sitemap.xml
+Sitemap: sitemap.xml
