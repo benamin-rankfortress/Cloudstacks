@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="http://handshaking.com/privacy-policy.html">
+<link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/copy-of-hh-logo-400x4001.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,81 +18,81 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.z7a78463b0299014e8b1aa97649e1df38 a{
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+.w06dd57ed328b353e1809e75c6aa1e4fe a{
 font-size:16px;
-}
-ul{
-list-style: circle;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-footer *{
-font-size:16px !important;
-}
-.f5b45e7a9f579130397a366929db47015{
-background-color:#ff4c4c!important;
-border-color:#ff4c4c!important;
-color:#ffffff!important;
-}
-.nav-item{
-padding-left:7.9px;
-padding-right:7.7px;
-padding-top:5.5px;
-padding-bottom:4.6px;
-}
-html{
-scroll-behavior: smooth;
-}
-.navbar a{
-font-size: 17.7px!important;
-font-weight: bold;
-}
-.aa631c0b774c623f79b323ef10b173378 a,.z7a78463b0299014e8b1aa97649e1df38 a{
-color:#0e0e0e!important;
-text-decoration: underline !important;
-}
-.aa631c0b774c623f79b323ef10b173378 p,.aa631c0b774c623f79b323ef10b173378 a,.aa631c0b774c623f79b323ef10b173378 span,.aa631c0b774c623f79b323ef10b173378 label{
-font-size:16px!important;
 }
 a{
 text-decoration: none!important;
 }
 footer{
-background:#3f423f;
+background:#3e413e;
 color:#ffffff;
 }
-.btn-md{
-padding: 14.6px 29.6px;
-border-radius: 0;
+.nav-item{
+padding-left:7.5px;
+padding-right:7.5px;
+padding-top:4.8px;
+padding-bottom:5.3px;
 }
-.e35d3ccf235614d9336e882fe045cd0ed:hover{
-box-shadow: 0 50.3px 50.2px -25px rgb(0 0 0 / 30%);
+.navbar a{
+font-size: 17.9px!important;
+font-weight: bold;
+}
+footer *{
+font-size:16px !important;
+}
+.y37b1afe9b84af5c97f6796312c76b543 a,.w06dd57ed328b353e1809e75c6aa1e4fe a{
+color:#0e0e0e!important;
+text-decoration: underline !important;
+}
+.e86778532145cf4a638bbc10ae20f35d3:hover{
+box-shadow: 0 49.7px 50.3px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
+}
+.z96d78943e02940e9ce3cb20985660bf9{
+background-color:#ff4c4c!important;
+border-color:#ff4c4c!important;
+color:#ffffff!important;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.w06dd57ed328b353e1809e75c6aa1e4fe p,.w06dd57ed328b353e1809e75c6aa1e4fe span,.w06dd57ed328b353e1809e75c6aa1e4fe label{
+font-size:16px!important;
+}
+.btn-md{
+padding: 14.9px 30.3px;
+border-radius: 0;
 }
 .nav-link{
 color: #000000!important;
 
 }
-footer a{
-color:#ffffff;
-text-decoration: underline;
+html{
+scroll-behavior: smooth;
 }
-.z7a78463b0299014e8b1aa97649e1df38 p,.z7a78463b0299014e8b1aa97649e1df38 span,.z7a78463b0299014e8b1aa97649e1df38 label{
+.y37b1afe9b84af5c97f6796312c76b543 p,.y37b1afe9b84af5c97f6796312c76b543 a,.y37b1afe9b84af5c97f6796312c76b543 span,.y37b1afe9b84af5c97f6796312c76b543 label{
 font-size:16px!important;
+}
+ul{
+list-style: circle;
 }
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="http://handshaking.com/lead-generation.html"  ><img alt="img/copy-of-hh-logo-400x4001.png" src="img/copy-of-hh-logo-400x4001.png"  width="150px" ></a>
+<a class="navbar-brand" href="lead-generation.html"  ><img alt="img/copy-of-hh-logo-400x4001.png" src="img/copy-of-hh-logo-400x4001.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="align-items-center d-flex navbar-nav ml-auto"><li class="nav-item ">
-<a class="nav-link d2aa951cf07d64e7cfe15da4ff1c689f6" href="http://handshaking.com/lead-generation.html"  >Lead Generation</a>
-</li><li class="nav-item"><a class="nav-link d2aa951cf07d64e7cfe15da4ff1c689f6" rel=nofollow href="http://handshaking.com/about-us.html">About Us</a>
+<ul class="d-flex navbar-nav ml-auto align-items-center"><li class=" nav-item">
+<a class="nav-link w088fabd8398dd59a890cd6e5603eef96" href="lead-generation.html"  >Lead Generation</a>
+</li><li class="nav-item"><a class="w088fabd8398dd59a890cd6e5603eef96 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="f5b45e7a9f579130397a366929db47015 btn btn-md" href="https://www.handshaking.com/contact.html" >Contact Us</a>
+<a class="btn z96d78943e02940e9ce3cb20985660bf9 btn-md" href="https://www.handshaking.com/contact.html" >Contact Us</a>
 </li>
 </ul>
 </div>
@@ -160,7 +160,7 @@ info@handshaking.com</br>
 </p>
 </section>
 <footer>
-<div class="py-4 pt-5 container" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>HANDSHAKING</p>
 <p>Phone : +1 720-515-5117</p>
@@ -168,30 +168,30 @@ info@handshaking.com</br>
 <p>City : Colorado Center</p>
 <p>State : United States</p>
 <p>Address : 1776 S. Jackson St., #614, Denver</p>
-<p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="https://local.google.com/place?id=283048861521640050&use=srp" rel="nofollow">Google Business Website</a></p>
-<p>Company Website : <a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="http://handshaking.com/" >http://handshaking.com/</a></p>
+<p><a class="w088fabd8398dd59a890cd6e5603eef96" href="https://local.google.com/place?id=283048861521640050&use=srp" rel="nofollow">Google Business Website</a></p>
+<p>Company Website : <a class="w088fabd8398dd59a890cd6e5603eef96" href="http://handshaking.com/" >http://handshaking.com/</a></p>
 </div><div class="col-lg-3"><p>LATEST BLOGPOSTS</p> 
  
-<p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="https://www.handshaking.com/blog/the-power-of-networking-how-handshakingcom-is-revolutionizing-business-connections"  target="_blank"> THE POWER OF NETWORKING: HOW HANDSHAKING.COM IS REVOLUTIONIZING BUSINESS CONNECTIONS</a></p><p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="https://www.handshaking.com/blog/ai-videos-for-lead-gen-sites-yep-heres-how"  target="_blank">AI VIDEOS FOR LEAD GEN SITES? YEP! HERE'S HOW</a></p><p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="https://www.handshaking.com/blog/how-to-increase-leads-for-your-website"  target="_blank">HOW TO INCREASE LEADS FOR YOUR WEBSITE</a></p><p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="http://handshaking.com/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="http://handshaking.com/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="d2aa951cf07d64e7cfe15da4ff1c689f6" href="http://handshaking.com/about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="w088fabd8398dd59a890cd6e5603eef96" href="https://www.handshaking.com/blog/the-power-of-networking-how-handshakingcom-is-revolutionizing-business-connections"  target="_blank"> THE POWER OF NETWORKING: HOW HANDSHAKING.COM IS REVOLUTIONIZING BUSINESS CONNECTIONS</a></p><p><a class="w088fabd8398dd59a890cd6e5603eef96" href="https://www.handshaking.com/blog/ai-videos-for-lead-gen-sites-yep-heres-how"  target="_blank">AI VIDEOS FOR LEAD GEN SITES? YEP! HERE'S HOW</a></p><p><a class="w088fabd8398dd59a890cd6e5603eef96" href="https://www.handshaking.com/blog/how-to-increase-leads-for-your-website"  target="_blank">HOW TO INCREASE LEADS FOR YOUR WEBSITE</a></p><p><a class="w088fabd8398dd59a890cd6e5603eef96" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="w088fabd8398dd59a890cd6e5603eef96" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="w088fabd8398dd59a890cd6e5603eef96" href="about-us.html" rel="nofollow">About Us</a></p>
 <p><h2 class="wsite-content-title" style="padding:0px; text-align:center; margin-bottom:8px"><span style="font-size:16px"><span style="overflow-wrap:break-word"><span style="color:#ffffff"><span style="font-family:Cabin"><span style="font-weight:600"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="letter-spacing:0.48px"><span style="white-space:normal"><span style="background-color:#3d403d"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">Get Involved</span></span></span></span></span></span></span></span></span></span></span></span></span></h2>
 
 <div class="paragraph" style="padding:0px; text-align:center; margin-bottom:16px"><span style="font-size:14px"><span style="overflow-wrap:break-word"><span style="line-height:1.5"><span style="letter-spacing:4px !important"><span style="color:#ffffff"><span style="font-family:Actor, sans-serif"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-weight:400"><span style="white-space:normal"><span style="background-color:#3d403d"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><a href="https://www.handshaking.com/podcast-episodes.html" style="text-decoration:none; color:#ff4c4c">Podcast</a><br />
 <a href="https://www.handshaking.com/video-series.html" style="text-decoration:none; color:#ff4c4c">Video Series</a><br />
 <font color="#d5d5d5"><a href="https://g.page/handshakin?gm" style="text-decoration:none; color:#ff4c4c" target="_blank">Leave us a review</a></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div></p>
 <div class="col-lg-12">
-<img class="img-fluid e35d3ccf235614d9336e882fe045cd0ed" src="img/copy-of-hh-logo-400x4001.png" alt="AI VIDEOS FOR LEAD GEN SITES? YEP! HERE'S HOW:">
+<img class="img-fluid e86778532145cf4a638bbc10ae20f35d3" src="img/copy-of-hh-logo-400x4001.png" alt="AI VIDEOS FOR LEAD GEN SITES? YEP! HERE'S HOW:">
 </div>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/handshakin" class="facebook x0c0e6e6fcc3ee677805d1c53a6f2e30b" ><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/company/handshaking/" class="pinterest x0c0e6e6fcc3ee677805d1c53a6f2e30b" ><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/handshakingdotcom" class="google x0c0e6e6fcc3ee677805d1c53a6f2e30b-plus" ><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCDY0g11XhlM0s1udu5Pxi0Q" class="x0c0e6e6fcc3ee677805d1c53a6f2e30b youtube" ><i class="fa fa-youtube"></i></a>
-<a href="https://www.twitter.com/handshakingcom" class="x0c0e6e6fcc3ee677805d1c53a6f2e30b twitter" ><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/handshakin" class="facebook wab7d70c28a76658266b4a4e20897a021" ><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/handshaking/" class="wab7d70c28a76658266b4a4e20897a021 pinterest" ><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/handshakingdotcom" class="google wab7d70c28a76658266b4a4e20897a021-plus" ><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCDY0g11XhlM0s1udu5Pxi0Q" class="youtube wab7d70c28a76658266b4a4e20897a021" ><i class="fa fa-youtube"></i></a>
+<a href="https://www.twitter.com/handshakingcom" class="twitter wab7d70c28a76658266b4a4e20897a021" ><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
