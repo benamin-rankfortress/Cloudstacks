@@ -5,27 +5,27 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>http://handshaking.com/lead-generation.html</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>lead-generation.html</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>http://handshaking.com/privacy-policy.html</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>http://handshaking.com/feed.xml</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>feed.xml</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>http://handshaking.com/sitemap.xml</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>http://handshaking.com/sitemap.html</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>http://handshaking.com/about-us.html</loc>
-                 <lastmod>2023-12-13T03:52:42+00:00</lastmod>
+                 <loc>about-us.html</loc>
+                 <lastmod>2024-01-12T08:49:24+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
