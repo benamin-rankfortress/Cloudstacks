@@ -18,68 +18,68 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-footer{
-background:#353535;
-color:#ffffff;
-}
-.w8dae0489ab501bfb2ca5d271e4629378 a,.c5497eb5fea535fb36ac1fe23aa55c701 a{
-color:#101010!important;
-text-decoration: underline !important;
-}
-.c5497eb5fea535fb36ac1fe23aa55c701 p,.c5497eb5fea535fb36ac1fe23aa55c701 span,.c5497eb5fea535fb36ac1fe23aa55c701 label{
-font-size:16px!important;
-}
-.btn-md{
-padding: 14.9px 30.5px;
-border-radius: 0;
-}
-.w8dae0489ab501bfb2ca5d271e4629378 p,.w8dae0489ab501bfb2ca5d271e4629378 a,.w8dae0489ab501bfb2ca5d271e4629378 span,.w8dae0489ab501bfb2ca5d271e4629378 label{
-font-size:16px!important;
-}
-footer *{
-font-size:16px !important;
-}
-.nav-item{
-padding-left:8.5px;
-padding-right:8.1px;
-padding-top:4.7px;
-padding-bottom:5.1px;
-}
-ul{
-list-style: circle;
+a{
+text-decoration: none!important;
 }
 html{
 scroll-behavior: smooth;
 }
-a{
-text-decoration: none!important;
+.ed42cc66ecf1e2309d24aceaadc68cf87{
+background-color:#c1ac6e!important;
+border-color:#c1ac6e!important;
+color:#ffffff!important;
+}
+.btn-md{
+padding: 15.3px 30.5px;
+border-radius: 0;
+}
+.navbar a{
+font-size: 17.5px!important;
+font-weight: bold;
+}
+.y01b894d2dc90e74f7d9e660e7ced33d7 a{
+font-size:16px;
+}
+.y3ce8591e4f2a70468e9e1e543d267c64 a,.y01b894d2dc90e74f7d9e660e7ced33d7 a{
+color:#020202!important;
+text-decoration: underline !important;
+}
+.y01b894d2dc90e74f7d9e660e7ced33d7 p,.y01b894d2dc90e74f7d9e660e7ced33d7 span,.y01b894d2dc90e74f7d9e660e7ced33d7 label{
+font-size:16px!important;
+}
+ul{
+list-style: circle;
+}
+*{
+font-family: 'Roboto', sans-serif;
+}
+.y3ce8591e4f2a70468e9e1e543d267c64 p,.y3ce8591e4f2a70468e9e1e543d267c64 a,.y3ce8591e4f2a70468e9e1e543d267c64 span,.y3ce8591e4f2a70468e9e1e543d267c64 label{
+font-size:16px!important;
+}
+.nav-item{
+padding-left:8.1px;
+padding-right:8px;
+padding-top:5px;
+padding-bottom:5px;
+}
+footer{
+background:#3c3c3c;
+color:#ffffff;
+}
+footer *{
+font-size:16px !important;
+}
+.db73ca4ffbe786cec0493ecae2ef051b8:hover{
+box-shadow: 0 49.6px 49.8px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-*{
-font-family: 'Roboto', sans-serif;
-}
 .nav-link{
 color: #000000!important;
 
-}
-.e8f26c315d69bd75ad41ff93a7744c421:hover{
-box-shadow: 0 50.5px 50.1px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.c5497eb5fea535fb36ac1fe23aa55c701 a{
-font-size:16px;
-}
-.c3b19f90ad9c0b100c7ad6736f3aed656{
-background-color:#c1ac6e!important;
-border-color:#c1ac6e!important;
-color:#ffffff!important;
-}
-.navbar a{
-font-size: 18.1px!important;
-font-weight: bold;
 }
 </style>
 </head>
@@ -87,27 +87,27 @@ font-weight: bold;
 <nav class="navbar navbar-expand-lg">
 <a class="navbar-brand" href="counselling-in-liverpool.html"  ><img alt="img/newproject1.png" src="img/newproject1.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav ml-auto align-items-center d-flex"><li class="nav-item">
-<a class="u4137b85c0de09de806629e76eca0ff88 nav-link" href="counselling-in-liverpool.html" >Counselling in Liverpool</a>
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav align-items-center ml-auto d-flex"><li class="nav-item">
+<a class="uaaec1e009f6adb6928daa6ac9fd0ea6c nav-link" href="counselling-in-liverpool.html" >Counselling in Liverpool</a>
 </li>
 <li class="nav-item">
-<a class="u4137b85c0de09de806629e76eca0ff88 nav-link" href="private-personal-coaching.html" >Private Personal Coaching</a>
+<a class="uaaec1e009f6adb6928daa6ac9fd0ea6c nav-link" href="private-personal-coaching.html" >Private Personal Coaching</a>
 </li>
 <li class="nav-item">
-<a class="u4137b85c0de09de806629e76eca0ff88 nav-link" href="nutrition-coaching.html" >Nutrition Coaching</a>
+<a class="uaaec1e009f6adb6928daa6ac9fd0ea6c nav-link" href="nutrition-coaching.html" >Nutrition Coaching</a>
 </li>
 <li class="nav-item">
-<a class="nav-link u4137b85c0de09de806629e76eca0ff88" href="semi-private-personal-training.html" >Semi-Private Personal Training</a>
+<a class="nav-link uaaec1e009f6adb6928daa6ac9fd0ea6c" href="semi-private-personal-training.html" >Semi-Private Personal Training</a>
 </li>
 <li class="nav-item dropdown">
-<a class="dropdown-toggle nav-link u4137b85c0de09de806629e76eca0ff88" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<a class="uaaec1e009f6adb6928daa6ac9fd0ea6c dropdown-toggle nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="golf-fitness.html"  >Golf Fitness</a><a class="dropdown-item" href="youth-fitness.html"  >Youth Fitness</a><a class="dropdown-item" href="physiotherapy-rehabilitation.html"  >Physiotherapy & Rehabilitation</a><a class="dropdown-item" href="high-performance-life-coaching.html"  >High-Performance Life Coaching</a><a class="dropdown-item" href="clean-lean-program.html"  >Clean & Lean Program</a><a class="dropdown-item" href="corporate-wellness.html"  >Corporate Wellness</a></div>
 </li>
-<li class="nav-item"><a class="nav-link u4137b85c0de09de806629e76eca0ff88" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="nav-link uaaec1e009f6adb6928daa6ac9fd0ea6c" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn-md btn c3b19f90ad9c0b100c7ad6736f3aed656" href="https://theaspireclub.com/contact-us/" >Contact Us</a>
+<a class="btn-md btn ed42cc66ecf1e2309d24aceaadc68cf87" href="https://theaspireclub.com/contact-us/" >Contact Us</a>
 </li>
 </ul>
 </div>
@@ -171,32 +171,32 @@ Whenever you receive a phone call from us you may request that we do not contact
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at <a href="https://theaspireclub.com/contact-us/">Aspire</a> and we will correct it in line with your request.</p>
 </section>
 <footer>
-<div class="container pt-5 py-4" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Aspire Coaching</p>
 <p>Address : Jasmine Building, 3rd Floor Sukhumvit Road, soi 23 Asoke BTS, Sukhumvit MRT</p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://www.google.com/search?q=Aspire+Edge+Gym&ludocid=9018821076641428286&localrlb=1&lsig=AB86z5V78IzGRPCtco4oZPQypxHu" >Google Business Website</a></p>
-<p>Company Website : <a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/" >https://theaspireclub.com/</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://www.google.com/search?q=Aspire+Edge+Gym&ludocid=9018821076641428286&localrlb=1&lsig=AB86z5V78IzGRPCtco4oZPQypxHu" >Google Business Website</a></p>
+<p>Company Website : <a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/" >https://theaspireclub.com/</a></p>
 </div><div class="col-lg-3">
 <p>APPLY TO ASPIRE</p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/personal-trainer-bangkok/"  target="_blank">Personal Training / Coaching</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/physiotherapy-bangkok/"  target="_blank">Physiotherapy & Rehabilitation</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/life-coach-bangkok/"  target="_blank">High Performance Life Coaching</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/nutrition-coaching-bangkok/"  target="_blank">Nutrition Coaching</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/weight-loss-bangkok/"  target="_blank">Clean & Lean Program</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/golf-fitness-bangkok/"  target="_blank">Golf Fitness</a></p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/youth-fitness-bangkok/"  target="_blank">Youth Fitness</a></p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/corporate-wellness-asia/"  target="_blank">Corporate Wellness</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/personal-trainer-bangkok/"  target="_blank">Personal Training / Coaching</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/physiotherapy-bangkok/"  target="_blank">Physiotherapy & Rehabilitation</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/life-coach-bangkok/"  target="_blank">High Performance Life Coaching</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/nutrition-coaching-bangkok/"  target="_blank">Nutrition Coaching</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/weight-loss-bangkok/"  target="_blank">Clean & Lean Program</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/golf-fitness-bangkok/"  target="_blank">Golf Fitness</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/youth-fitness-bangkok/"  target="_blank">Youth Fitness</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/corporate-wellness-asia/"  target="_blank">Corporate Wellness</a></p>
 </div><div class="col-lg-3"><p>BLOG</p> 
  
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/how-much-does-a-personal-trainer-bangkok-cost/"  target="_blank">How Much Does a Personal Trainer in Bangkok Cost and How to Choose the Right Coach</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/quick-and-effective-15-minute-stress-busting-workouts-for-busy-lives/"  target="_blank">Quick and Effective: 15-Minute Stress-Busting Workouts for Busy Lives</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/understanding-the-sleep-wake-cycle-hormones-timing-and-temperature/"  target="_blank">Understanding the Sleep-Wake Cycle Hormones, Timing, and Temperature</a></p><p><a class="u4137b85c0de09de806629e76eca0ff88" href="https://theaspireclub.com/achieve-your-fitness-goals-faster-with-semi-private-training/"  target="_blank">Achieve Your Fitness Goals Faster with Semi-Private Training</a></p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="u4137b85c0de09de806629e76eca0ff88" href="about-us.html" rel="nofollow">About Us</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/how-much-does-a-personal-trainer-bangkok-cost/"  target="_blank">How Much Does a Personal Trainer in Bangkok Cost and How to Choose the Right Coach</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/quick-and-effective-15-minute-stress-busting-workouts-for-busy-lives/"  target="_blank">Quick and Effective: 15-Minute Stress-Busting Workouts for Busy Lives</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/understanding-the-sleep-wake-cycle-hormones-timing-and-temperature/"  target="_blank">Understanding the Sleep-Wake Cycle Hormones, Timing, and Temperature</a></p><p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="https://theaspireclub.com/achieve-your-fitness-goals-faster-with-semi-private-training/"  target="_blank">Achieve Your Fitness Goals Faster with Semi-Private Training</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="uaaec1e009f6adb6928daa6ac9fd0ea6c" href="about-us.html" rel="nofollow">About Us</a></p>
 <div class="col-lg-12">
-<img class="img-fluid e8f26c315d69bd75ad41ff93a7744c421" src="img/aspire-logo-1x-w.png" alt="">
+<img class="img-fluid db73ca4ffbe786cec0493ecae2ef051b8" src="img/aspire-logo-1x-w.png" alt="">
 </div>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="www.facebook.com/aspireclub " class="y3b848d1291ca9fbb7a1f4404571f7347 facebook" ><i class="fa fa-facebook"></i></a>
-<a href="www.instagram.com/theaspireclub" class="google y3b848d1291ca9fbb7a1f4404571f7347-plus" ><i class="fa fa-instagram"></i></a>
+<a href="www.facebook.com/aspireclub " class="aa09b1c0e940ee73d8fb5d6fe7dfca533 facebook" ><i class="fa fa-facebook"></i></a>
+<a href="www.instagram.com/theaspireclub" class="google aa09b1c0e940ee73d8fb5d6fe7dfca533-plus" ><i class="fa fa-instagram"></i></a>
 </div>
 </div></div>
 </div>
