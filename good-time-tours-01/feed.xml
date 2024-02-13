@@ -10,7 +10,7 @@
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="privacy-policy.html">
-<link rel="shortcut icon"  href="img/logo-scaled.png"/>
+<link rel="shortcut icon"  href="img/327bcefc-9abc-46ef-83db-4c4d6f156d65.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
@@ -18,180 +18,324 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-footer *{
-font-size:16px !important;
-}
-*{
-font-family: 'Roboto', sans-serif;
-}
-.yed4e6155e25ee36803f62a97129b1852 p,.yed4e6155e25ee36803f62a97129b1852 span,.yed4e6155e25ee36803f62a97129b1852 label{
-font-size:16px!important;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-.wf3ef69d99c15b974df6e66b3f68477d1 a,.yed4e6155e25ee36803f62a97129b1852 a{
-color:#0b0b0b!important;
-text-decoration: underline !important;
-}
-.b5fb69a60645ad6578ab01a1e0d998941{
-background-color:#049f82!important;
-border-color:#049f82!important;
-color:#ffffff!important;
+.xcefedb135629e39ba92ebf94c56c1607:hover{
+box-shadow: 0 49.6px 50px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
 a{
 text-decoration: none!important;
 }
-footer{
-background:#000000;
-color:#ffffff;
-}
-.wf3ef69d99c15b974df6e66b3f68477d1 p,.wf3ef69d99c15b974df6e66b3f68477d1 a,.wf3ef69d99c15b974df6e66b3f68477d1 span,.wf3ef69d99c15b974df6e66b3f68477d1 label{
+.xcdb952bd6c827b7732b11f690b0f0f3b p,.xcdb952bd6c827b7732b11f690b0f0f3b a,.xcdb952bd6c827b7732b11f690b0f0f3b span,.xcdb952bd6c827b7732b11f690b0f0f3b label{
 font-size:16px!important;
+}
+.btn-md{
+padding: 15.1px 29.6px;
+border-radius: 0;
+}
+.ze80e472b24f4e066ac5e2ad6b1b842e3 a{
+font-size:16px;
 }
 html{
 scroll-behavior: smooth;
 }
-.yb779b6d214633433d8a6a7d69639de08:hover{
-box-shadow: 0 50.2px 50.2px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.yed4e6155e25ee36803f62a97129b1852 a{
-font-size:16px;
-}
-.navbar a{
-font-size: 17.5px!important;
-font-weight: bold;
-}
-.btn-md{
-padding: 15px 30.3px;
-border-radius: 0;
-}
 ul{
 list-style: circle;
+}
+.ze80e472b24f4e066ac5e2ad6b1b842e3 p,.ze80e472b24f4e066ac5e2ad6b1b842e3 span,.ze80e472b24f4e066ac5e2ad6b1b842e3 label{
+font-size:16px!important;
+}
+footer *{
+font-size:16px !important;
+}
+footer{
+background:#0a6bae;
+color:#ffffff;
+}
+.nav-item{
+padding-left:8.1px;
+padding-right:7.5px;
+padding-top:4.6px;
+padding-bottom:5px;
+}
+.c7cd21b1a3e7037c612896911aa8780a3{
+background-color:#da0028!important;
+border-color:#da0028!important;
+color:#ffffff!important;
 }
 .nav-link{
 color: #000000!important;
 
 }
-.nav-item{
-padding-left:7.7px;
-padding-right:7.6px;
-padding-top:5.4px;
-padding-bottom:4.5px;
+*{
+font-family: 'Roboto', sans-serif;
+}
+.xcdb952bd6c827b7732b11f690b0f0f3b a,.ze80e472b24f4e066ac5e2ad6b1b842e3 a{
+color:#090909!important;
+text-decoration: underline !important;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+.navbar a{
+font-size: 18.3px!important;
+font-weight: bold;
 }
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo-scaled.png" src="img/logo-scaled.png"  width="150px" ></a>
+<a class="navbar-brand" href="index.html"  ><img alt="img/327bcefc-9abc-46ef-83db-4c4d6f156d65.png" src="img/327bcefc-9abc-46ef-83db-4c4d6f156d65.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav d-flex align-items-center ml-auto"><li class="nav-item">
-<a class="nav-link c8469e406251d87945eea6d2080fa606c" href="index.html" >Tour Party Bus</a>
+<ul class="ml-auto navbar-nav align-items-center d-flex"><li class="nav-item">
+<a class="x22dbce2b38142271cabf1620cacd6125 nav-link" href="index.html" >Sunset Cruise</a>
 </li>
 <li class="nav-item">
-<a class="nav-link c8469e406251d87945eea6d2080fa606c" href="party-bus-tours.html" >Party Bus Tours</a>
+<a class="x22dbce2b38142271cabf1620cacd6125 nav-link" href="bachelor-party.html" >Bachelor Party</a>
 </li>
 <li class="nav-item">
-<a class="c8469e406251d87945eea6d2080fa606c nav-link" href="party-bus-trips.html" >Party Bus Trips</a>
+<a class="nav-link x22dbce2b38142271cabf1620cacd6125" href="bachelorette-party.html" >Bachelorette Party</a>
 </li>
 <li class="nav-item">
-<a class="c8469e406251d87945eea6d2080fa606c nav-link" href="party-bus-co.html" >Party Bus CO</a>
+<a class="x22dbce2b38142271cabf1620cacd6125 nav-link" href="party-cruises.html" >Party Cruises</a>
 </li>
 <li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle c8469e406251d87945eea6d2080fa606c" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="denver-hop-on-hop-off-bus.html"  >Denver Hop On Hop Off Bus</a><a class="dropdown-item" href="dispensary-near-red-rocks.html"  >Dispensary Near Red Rocks</a><a class="dropdown-item" href="round-trip-pet-transportation-denver-co.html"  >Round Trip Pet Transportation Denver CO</a></div>
+<a class="nav-link dropdown-toggle x22dbce2b38142271cabf1620cacd6125" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="bachelor-ette.html"  >bachelor ette</a><a class="dropdown-item" href="stagette-party.html"  >stagette party</a><a class="dropdown-item" href="bachelorette-party-idea.html"  >bachelorette party idea</a><a class="dropdown-item" href="party-bachelor-party.html"  >party bachelor party</a><a class="dropdown-item" href="bachelor-s-party.html"  >bachelor s party</a><a class="dropdown-item" href="party-bachelor.html"  >party bachelor</a><a class="dropdown-item" href="sunset-on-cruise.html"  >sunset on cruise</a><a class="dropdown-item" href="cruise-sunset.html"  >cruise sunset</a><a class="dropdown-item" href="best-bachelor-party-city.html"  >best bachelor party city</a><a class="dropdown-item" href="party-bride.html"  >party bride</a><a class="dropdown-item" href="sunset-cruise-near-me.html"  >sunset cruise near me</a><a class="dropdown-item" href="bachelorette-themes.html"  >bachelorette themes</a><a class="dropdown-item" href="renting-a-party-boat.html"  >renting a party boat</a><a class="dropdown-item" href="bachelorette-party-favor.html"  >bachelorette party favor</a><a class="dropdown-item" href="bachelorette-weekend-themes.html"  >bachelorette weekend themes</a><a class="dropdown-item" href="wedding-on-a-cruise-ship.html"  >wedding on a cruise ship</a><a class="dropdown-item" href="party-on-a-yacht.html"  >party on a yacht</a><a class="dropdown-item" href="bachelorette-party-themes.html"  >bachelorette party themes</a><a class="dropdown-item" href="bachelorette-scavenger-hunt.html"  >bachelorette scavenger hunt</a><a class="dropdown-item" href="bachelorette-party-scavenger-hunt.html"  >bachelorette party scavenger hunt</a><a class="dropdown-item" href="cruise-new-year-party.html"  >cruise new year party</a><a class="dropdown-item" href="party-cruise-ships.html"  >party cruise ships</a><a class="dropdown-item" href="cruise-boat-party.html"  >cruise boat party</a><a class="dropdown-item" href="bachelorette-party-items.html"  >bachelorette party items</a><a class="dropdown-item" href="party-in-cruise.html"  >party in cruise</a><a class="dropdown-item" href="party-cruise-boat.html"  >party cruise boat</a><a class="dropdown-item" href="bachelor-party-vegas.html"  >bachelor party vegas</a><a class="dropdown-item" href="bachelorette-idea.html"  >bachelorette idea</a><a class="dropdown-item" href="miami-booze-cruises.html"  >miami booze cruises</a><a class="dropdown-item" href="party-boats-near-me.html"  >party boats near me</a><a class="dropdown-item" href="sunset-dinner-cruise.html"  >sunset dinner cruise</a><a class="dropdown-item" href="sunset-cruise-with-dinner.html"  >sunset cruise with dinner</a><a class="dropdown-item" href="bachelorette-planning.html"  >bachelorette planning</a><a class="dropdown-item" href="planning-a-bachelorette-party.html"  >planning a bachelorette party</a><a class="dropdown-item" href="booze-cruise-near-me.html"  >booze cruise near me</a><a class="dropdown-item" href="bachelorette-activities.html"  >bachelorette activities</a><a class="dropdown-item" href="ajs-dolphin-cruise.html"  >aj's dolphin cruise</a><a class="dropdown-item" href="beach-themed-bachelorette-party.html"  >beach themed bachelorette party</a><a class="dropdown-item" href="bachelor-nights.html"  >bachelor nights</a><a class="dropdown-item" href="beach-bachelorette-themes.html"  >beach bachelorette themes</a><a class="dropdown-item" href="joint-bachelor-and-bachelorette-party.html"  >joint bachelor and bachelorette party</a><a class="dropdown-item" href="mamma-mia-bachelorette-party.html"  >mamma mia bachelorette party</a><a class="dropdown-item" href="combined-bachelor-bachelorette-party.html"  >combined bachelor bachelorette party</a><a class="dropdown-item" href="ajs-sunset-cruise.html"  >ajs sunset cruise</a><a class="dropdown-item" href="bachelorette-party-activities.html"  >bachelorette party activities</a><a class="dropdown-item" href="joint-bachelor-bachelorette-party.html"  >joint bachelor bachelorette party</a><a class="dropdown-item" href="beach-bachelorette-party-themes.html"  >beach bachelorette party themes</a><a class="dropdown-item" href="bachelor-and-bachelorette-party-combined.html"  >bachelor and bachelorette party combined</a><a class="dropdown-item" href="marina-jacks-dinner-cruise.html"  >marina jacks dinner cruise</a><a class="dropdown-item" href="best-party-cruises.html"  >best party cruises</a><a class="dropdown-item" href="sunset-cruise-in-key-largo.html"  >sunset cruise in key largo</a><a class="dropdown-item" href="the-bachelor-party.html"  >the bachelor party</a><a class="dropdown-item" href="best-cruise-line-for-partying.html"  >best cruise line for partying</a><a class="dropdown-item" href="barbie-bachelorette-party.html"  >barbie bachelorette party</a><a class="dropdown-item" href="airbnb-bachelorette.html"  >airbnb bachelorette</a><a class="dropdown-item" href="disco-bachelorette-party.html"  >disco bachelorette party</a><a class="dropdown-item" href="bachelorette-airbnb.html"  >bachelorette airbnb</a><a class="dropdown-item" href="sunset-sailing.html"  >sunset sailing</a><a class="dropdown-item" href="last-rodeo-bachelorette-party.html"  >last rodeo bachelorette party</a><a class="dropdown-item" href="disco-cowgirl-bachelorette.html"  >disco cowgirl bachelorette</a><a class="dropdown-item" href="beach-bachelorette-party.html"  >beach bachelorette party</a><a class="dropdown-item" href="sunset-dolphin-cruise.html"  >sunset dolphin cruise</a><a class="dropdown-item" href="best-party-cruise-ships.html"  >best party cruise ships</a><a class="dropdown-item" href="bach-party.html"  >bach party</a><a class="dropdown-item" href="dinner-sunset.html"  >dinner sunset</a><a class="dropdown-item" href="disney-bachelorette.html"  >disney bachelorette</a><a class="dropdown-item" href="bachelorette-trip.html"  >bachelorette trip</a><a class="dropdown-item" href="sunset-dinner.html"  >sunset dinner</a><a class="dropdown-item" href="dinner-at-sunset.html"  >dinner at sunset</a><a class="dropdown-item" href="disney-bachelorette-party.html"  >disney bachelorette party</a><a class="dropdown-item" href="island-boat-party.html"  >island boat party</a><a class="dropdown-item" href="cowboy-bachelorette-party.html"  >cowboy bachelorette party</a><a class="dropdown-item" href="cowgirl-bachelorette-party.html"  >cowgirl bachelorette party</a><a class="dropdown-item" href="bachelorette-party-jeopardy.html"  >bachelorette party jeopardy</a><a class="dropdown-item" href="bachelorette-themes-2023.html"  >bachelorette themes 2023</a><a class="dropdown-item" href="sunset-cruise-cape-cod.html"  >sunset cruise cape cod</a><a class="dropdown-item" href="glitz-and-glam-bachelorette-party.html"  >glitz and glam bachelorette party</a><a class="dropdown-item" href="barbie-bachelorette.html"  >barbie bachelorette</a><a class="dropdown-item" href="bachelor-and-bachelorette-party.html"  >bachelor and bachelorette party</a><a class="dropdown-item" href="dolphin-with-sunset.html"  >dolphin with sunset</a><a class="dropdown-item" href="bachelor-bachelorette-party.html"  >bachelor bachelorette party</a><a class="dropdown-item" href="best-city-for-bachelorette-party.html"  >best city for bachelorette party</a><a class="dropdown-item" href="last-disco-bachelorette.html"  >last disco bachelorette</a><a class="dropdown-item" href="virgin-voyages-pajama-party.html"  >virgin voyages pajama party</a><a class="dropdown-item" href="harry-potter-bachelorette.html"  >harry potter bachelorette</a><a class="dropdown-item" href="birthday-party-on-a-boat.html"  >birthday party on a boat</a><a class="dropdown-item" href="party-city-bachelorette.html"  >party city bachelorette</a><a class="dropdown-item" href="sunset-boat-trips.html"  >sunset boat trips</a><a class="dropdown-item" href="bachelorette-party-boat.html"  >bachelorette party boat</a><a class="dropdown-item" href="etsy-bachelorette-party.html"  >etsy bachelorette party</a><a class="dropdown-item" href="harry-potter-bachelorette-party.html"  >harry potter bachelorette party</a><a class="dropdown-item" href="final-fiesta-bachelorette.html"  >final fiesta bachelorette</a></div>
 </li>
-<li class="nav-item"><a class="nav-link c8469e406251d87945eea6d2080fa606c" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="x22dbce2b38142271cabf1620cacd6125 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn b5fb69a60645ad6578ab01a1e0d998941 btn-md" href="https://gt-tours.com/contact/" >Contact Us</a>
+<a class="c7cd21b1a3e7037c612896911aa8780a3 btn btn-md" href="https://fareharbor.com/embeds/book/goodtimeaustin/?full-items=yes&u=35aba246-0caa-4c23-a4af-67c77ac85d74&from-ssl=yes&ga4t=&g4=yes&cp=no&csp=no&back=https%3A%2F%2Fgoodtimeaustin.com%2F" >Contact Us</a>
 </li>
 </ul>
 </div>
 </nav>
 <section class="container" style="min-height: 80vh;">
-<h1>Privacy Policy for Good Time Tours</h1>
-<p>At Good Time Tours one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by Good Time Tours and how we use it. You can check out our main website here: https://gt-tours.com/</p>
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
-<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Good Time Tours. This policy is not applicable to any information collected offline or via channels other than this website. </p>
-<h2>Consent</h2>
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
-<h2>Information we collect</h2>
-<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
-<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, Good Time Tours, address, email address, and telephone number.</p>
-<h2>How we use your information</h2>
-<p>We use the information we collect in various ways, including to:</p>
+<h1>Privacy Policy</h1>
+
+<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
+
+<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
+
+<h2>Interpretation</h2>
+
+<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
+
+<h2>Definitions</h2>
+
+<p>For the purposes of this Privacy Policy:</p>
+
 <ul>
-<li>Provide, operate, and maintain our website</li>
-<li>Improve, personalize, and expand our website</li>
-<li>Understand and analyze how you use our website</li>
-<li>Develop new products, services, features, and functionality</li>
-<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
-<li>Send you emails</li>
-<li>Find and prevent fraud</li>
+	<li><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</li>
+	<li><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &ldquo;control&rdquo; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</li>
+	<li><strong>Company</strong> (referred to as either &ldquo;the Company&rdquo;, &ldquo;We&rdquo;, &ldquo;Us&rdquo; or &ldquo;Our&rdquo; in this Agreement) refers to Good Time Tours, 17141 Rocky Ridge Rd, Austin, TX 78734, United States.</li>
+	<li><strong>Cookies</strong> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.</li>
+	<li><strong>Country</strong> refers to: Texas, United States</li>
+	<li><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</li>
+	<li><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</li>
+	<li><strong>Service</strong> refers to the Website.</li>
+	<li><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.</li>
+	<li><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</li>
+	<li><strong>Website</strong> refers to Good Time Tours, accessible from <a href="https://goodtimeaustin.com/">https://goodtimeaustin.com/</a></li>
+	<li><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</li>
 </ul>
-<h2>Log Files</h2>
-<p>Good Time Tours follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
-<h2>Advertising Partners Privacy Policies</h2>
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Good Time Tours.</p>
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Good Time Tours, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
-<p>Note that Good Time Tours has no access to or control over these cookies that are used by third-party advertisers.</p>
-<h2>Third Party Privacy Policies</h2>
-<p>Good Time Tours's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
-<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
-<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
-<p>Under the CCPA, among other rights, California consumers have the right to:</p>
-<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
-<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
-<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-<h2>GDPR Data Protection Rights</h2>
-<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
-<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
-<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
-<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
-<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
-<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
-<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-<h2>Children's Information</h2>
-<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
-<p>Good Time Tours does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
-<h2>Publisher</h2>
-<p>
-This website is owned and published by:
-Good Time Tours</br>
-(303) 653-7147</br>
-852 Forest St, Denver, CO 80220</br>
-</br>
-</br>
-https://gt-tours.com/</br>
-fostertom1@live.com</br>
-</p>
+
+<h2>Types of Data Collected</h2>
+
+<h3>Personal Data</h3>
+
+<p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
+
+<ul>
+	<li>Email address</li>
+	<li>First name and last name</li>
+	<li>Phone number</li>
+	<li>Usage Data</li>
+</ul>
+
+<h3>Usage Data</h3>
+
+<p>Usage Data is collected automatically when using the Service.</p>
+
+<p>Usage Data may include information such as Your Device&rsquo;s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+
+<p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
+
+<p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
+
+<h3>Tracking Technologies and Cookies</h3>
+
+<p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:</p>
+
+<ul>
+	<li><strong>Cookies or Browser Cookies.</strong> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.</li>
+	<li><strong>Web Beacons.</strong> Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).</li>
+</ul>
+
+<p>Cookies can be &ldquo;Persistent&rdquo; or &ldquo;Session&rdquo; Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. You can learn more about cookies on <a href="https://www.termsfeed.com/blog/cookies/#What_Are_Cookies">TermsFeed website</a> article.</p>
+
+<p>We use both Session and Persistent Cookies for the purposes set out below:</p>
+
+<p><strong>Necessary / Essential Cookies</strong></p>
+
+<p>Type: Session Cookies</p>
+
+<p>Administered by: Us</p>
+
+<p>Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</p>
+
+<p><strong>Cookies Policy / Notice Acceptance Cookies</strong></p>
+
+<p>Type: Persistent Cookies</p>
+
+<p>Administered by: Us</p>
+
+<p>Purpose: These Cookies identify if users have accepted the use of cookies on the Website.</p>
+
+<p><strong>Functionality Cookies</strong></p>
+
+<p>Type: Persistent Cookies</p>
+
+<p>Administered by: Us</p>
+
+<p>Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</p>
+
+<p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.</p>
+
+<h2>Use of Your Personal Data</h2>
+
+<p>The Company may use Personal Data for the following purposes:</p>
+
+<ul>
+	<li><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</li>
+	<li><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</li>
+	<li><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</li>
+	<li><strong>To contact You:</strong> To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application&rsquo;s push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.</li>
+	<li><strong>To provide You</strong> with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.</li>
+	<li><strong>To manage Your requests:</strong> To attend and manage Your requests to Us.</li>
+	<li><strong>For business transfers:</strong> We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.</li>
+	<li><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</li>
+</ul>
+
+<p>We may share Your personal information in the following situations:</p>
+
+<ul>
+	<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
+	<li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
+	<li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
+	<li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
+	<li><strong>With other users:</strong> when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.</li>
+	<li><strong>With Your consent</strong>: We may disclose Your personal information for any other purpose with Your consent.</li>
+</ul>
+
+<h2>Retention of Your Personal Data</h2>
+
+<p>The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
+
+<p>The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.</p>
+
+<h2>Transfer of Your Personal Data</h2>
+
+<p>Your information, including Personal Data, is processed at the Company&rsquo;s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to &mdash; and maintained on &mdash; computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>
+
+<p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>
+
+<p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
+
+<h2>Delete Your Personal Data</h2>
+
+<p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
+
+<p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
+
+<p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>
+
+<p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
+
+<h2>Disclosure of Your Personal Data</h2>
+
+<h3>Business Transactions</h3>
+
+<p>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>
+
+<h3>Law enforcement</h3>
+
+<p>Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
+
+<h3>Other legal requirements</h3>
+
+<p>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
+
+<ul>
+	<li>Comply with a legal obligation</li>
+	<li>Protect and defend the rights or property of the Company</li>
+	<li>Prevent or investigate possible wrongdoing in connection with the Service</li>
+	<li>Protect the personal safety of Users of the Service or the public</li>
+	<li>Protect against legal liability</li>
+</ul>
+
+<h2>Security of Your Personal Data</h2>
+
+<p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
+
+<h2>Children&rsquo;s Privacy</h2>
+
+<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
+
+<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent&rsquo;s consent before We collect and use that information.</p>
+
+<h2>Links to Other Websites</h2>
+
+<p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party&rsquo;s site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
+
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+
+<h2>Changes to this Privacy Policy</h2>
+
+<p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
+
+<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &ldquo;Last updated&rdquo; date at the top of this Privacy Policy.</p>
+
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+<h2>Contact Us</h2>
+
+<p>If you have any questions about this Privacy Policy, You can contact us:</p>
+
+<ul>
+	<li>By email: <a href="mailto:BoatTours@GoodTimeAustin.com" rel="nofollow ">BoatTours@GoodTimeAustin.com</a></li>
+	<li>By phone number: <a href="tel:5129242911" rel="nofollow ">(512) 924-2911</a></li>
+</ul>
 </section>
 <footer>
-<div class="py-4 pt-5 container" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Good Time Tours</p>
-<p>Phone : (303) 653-7147</p>
-<p>Email : fostertom1@live.com</p>
-<p>Address : 852 Forest St, Denver, CO 80220</p>
-<p><a class="c8469e406251d87945eea6d2080fa606c" href="https://www.google.com/search?q=Good+Time+Tours&ludocid=15122675992419421932&localrlb=1&lsig=AB86z5UnRSZmeh_NhaAEsBgU9bME#ip=1" >Google Business Website</a></p>
-<p>Company Website : <a class="c8469e406251d87945eea6d2080fa606c" href="https://gt-tours.com/" >https://gt-tours.com/</a></p>
-</div><div class="col-lg-3"><p><a class="c8469e406251d87945eea6d2080fa606c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="c8469e406251d87945eea6d2080fa606c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="c8469e406251d87945eea6d2080fa606c" href="about-us.html" rel="nofollow">About Us</a></p>
+<p>Phone : (512) 924-2911</p>
+<p>Email : BoatTours@GoodTimeAustin.com</p>
+<p>Address : 17141 Rocky Ridge Rd, Austin, TX 78734, United States</p>
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://www.google.com/search?q=Good+Time+Tours+-+Lake+Travis+-+Party+Boat+Rentals&ludocid=6359536273332514211&localrlb=1&lsig=AB86z5XemxCvz-dzWuoBxHDhN8Im" >Google Business Website</a></p>
+<p>Company Website : <a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/" >https://goodtimeaustin.com/</a></p>
+</div><div class="col-lg-3">
+<p>Tours</p>
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/tours/lake-travis-sunset-cruise/"  target="_blank">Sunset Cruise</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/tours/lake-travis-bachelor-party/"  target="_blank">Bachelor Party</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/tours/lake-travis-bachelorette-party/"  target="_blank">Bachelorette Party</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/tours/lake-travis-party-cruises/"  target="_blank">Party Cruises</a></p></div><div class="col-lg-3"><p>Blog</p> 
+ 
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/bachelorette-party-ideas-austin-texas/"  target="_blank">Bachelorette Party Ideas in Austin Texas</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/how-to-plan-a-family-friendly-boat-party/"  target="_blank">How to Plan a Family-Friendly Boat Party</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/what-to-wear-on-a-boat-cruise-party/"  target="_blank">What to Wear on a Boat Cruise Party</a></p><p><a class="x22dbce2b38142271cabf1620cacd6125" href="https://goodtimeaustin.com/joint-bachelor-bachelorette-party-ideas-planning-the-ultimate-celebration/"  target="_blank">Joint Bachelor Bachelorette Party Ideas: Planning the Ultimate Celebration</a></p>
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="x22dbce2b38142271cabf1620cacd6125" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="col-lg-12">
+<img class="img-fluid xcefedb135629e39ba92ebf94c56c1607" src="img/53a41f00-1d99-4cfe-95c1-326ca0ed85de.png" alt="">
+</div>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/goodtimestourbus" class="facebook c321180e5f3f2a8d959aff80b4cb4c48f" ><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/goodtimepartybus/?hl=en" class="google c321180e5f3f2a8d959aff80b4cb4c48f-plus" ><i class="fa fa-instagram"></i></a>
+<a href="https://www.facebook.com/goodtimeaustin" class="facebook b798c5ca3953c3d30266545b56bb2aa7c" ><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/goodtimetours/" class="b798c5ca3953c3d30266545b56bb2aa7c google-plus" ><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/@goodtimetours" class="youtube b798c5ca3953c3d30266545b56bb2aa7c" ><i class="fa fa-youtube"></i></a>
 </div>
 </div></div>
 </div>
