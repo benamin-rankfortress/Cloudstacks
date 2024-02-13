@@ -6,50 +6,406 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>party-bus-tours.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>bachelor-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>party-bus-trips.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>party-bus-co.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>party-cruises.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>denver-hop-on-hop-off-bus.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>bachelor-ette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>dispensary-near-red-rocks.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>stagette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>round-trip-pet-transportation-denver-co.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <loc>bachelorette-party-idea.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-bachelor-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-s-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-bachelor.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-on-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cruise-sunset.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>best-bachelor-party-city.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-bride.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-cruise-near-me.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-themes.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>renting-a-party-boat.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-favor.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-weekend-themes.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>wedding-on-a-cruise-ship.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-on-a-yacht.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-themes.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-scavenger-hunt.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-scavenger-hunt.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cruise-new-year-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-cruise-ships.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cruise-boat-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-items.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-in-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-cruise-boat.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-party-vegas.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-idea.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>miami-booze-cruises.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-boats-near-me.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-dinner-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-cruise-with-dinner.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-planning.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>planning-a-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>booze-cruise-near-me.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-activities.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>ajs-dolphin-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>beach-themed-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-nights.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>beach-bachelorette-themes.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>joint-bachelor-and-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>mamma-mia-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>combined-bachelor-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>ajs-sunset-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-activities.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>joint-bachelor-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>beach-bachelorette-party-themes.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-and-bachelorette-party-combined.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>marina-jacks-dinner-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>best-party-cruises.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-cruise-in-key-largo.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>the-bachelor-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>best-cruise-line-for-partying.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>barbie-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>airbnb-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>disco-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-airbnb.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-sailing.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>last-rodeo-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>disco-cowgirl-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>beach-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-dolphin-cruise.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>best-party-cruise-ships.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bach-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>dinner-sunset.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>disney-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-trip.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-dinner.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>dinner-at-sunset.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>disney-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>island-boat-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cowboy-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>cowgirl-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-jeopardy.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-themes-2023.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-cruise-cape-cod.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>glitz-and-glam-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>barbie-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-and-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>dolphin-with-sunset.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelor-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>best-city-for-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>last-disco-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>virgin-voyages-pajama-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>harry-potter-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>birthday-party-on-a-boat.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>party-city-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sunset-boat-trips.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>bachelorette-party-boat.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>etsy-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>harry-potter-bachelorette-party.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>final-fiesta-bachelorette.html</loc>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2024-02-12T01:37:51+00:00</lastmod>
+                 <lastmod>2024-02-13T01:35:41+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
