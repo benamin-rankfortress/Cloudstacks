@@ -1,4 +1,4 @@
-Sitemap: ezfixappliance.ca/sitemap.xml
+Sitemap: https://ezfixappliance.ca/sitemap.xml
 User-agent: rogerbot
 Disallow: /
 User-agent: dotbot
