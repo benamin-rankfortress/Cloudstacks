@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>web-design.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>e-commerce.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>web-hosting.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>email-hosting.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>wordpress-maintenance-plans.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>web-design-perth.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>website-design-perth.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>professional-web-design-perth.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>custom-web-design-perth.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>local-web-design-perth.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2024-05-02T06:18:34+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
